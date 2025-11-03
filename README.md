@@ -6,6 +6,8 @@ A fast, parallel WHOIS lookup tool to extract IP ownership details from multiple
 
 ---
 
+(Image)[./example_output.png]
+
 ### 🧩 Features
 - Handles multi-block WHOIS results (picks the most specific range)
 - Runs multiple lookups in parallel
