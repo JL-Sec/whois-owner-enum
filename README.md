@@ -1,4 +1,4 @@
-# whois-owner-enum
+# whois-owner-enum.sh
 
 Designed for external infrastructure pentests where you want to quickly validate ownership of multiple IPs.
 
